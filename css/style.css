@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap');
+*{
+    font-family: 'Padauk', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.c-rounded{
+    border-radius: 0 0 0.25rem 0 !important;
+}
+.slick-dots{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.slick-dots li{
+    width: 10px !important;
+    height: 10px !important;
+    background-color: #262626 ;
+    border: 1px solid #262626;
+    border-radius: 50%;
+}
+.slick-dots li.slick-active{
+    width: 15px !important;
+    height: 15px !important ;
+    background-color:  #fff !important;
+}
+
+[class*=" imghvr-"] figcaption,
+[class^=imghvr-] figcaption {
+    transform: scale(1.5);
+    background-color: #121212bb !important;
+    padding: 0px !important;
+    position: absolute !important;
+    color: #fff !important;
+}
+
+[class*=" imghvr-"] figcaption small,
+[class^=imghvr-] figcaption small {
+     padding: 0px !important;
+    position: absolute !important;
+     top: unset !important;
+    bottom: 0 !important;
+     left: unset !important;
+    right: 0 !important;
+    color: #fff !important;
+}
