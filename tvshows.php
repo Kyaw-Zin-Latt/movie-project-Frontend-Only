@@ -1,79 +1,15 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Movies</title>
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="vendor/@fortawesome/fontawesome-free/css/all.css">
-    <link rel="stylesheet" href="vendor/image_hover/css/imagehover.min.css">
-    <link rel="stylesheet" href="vendor/slick/slick.css">
-    <link rel="stylesheet" href="vendor/slick/slick-theme.css">
-</head>
-<body style="background-color: #262626">
-
-<div class="container-fluid">
-    <div class="row">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 p-0">
-                    <nav class="navbar navbar-expand-sm fixed-top navbar-dark bg-dark py-0" style="background-color: #121212 !important;">
-                        <div class="container-fluid">
-                            <a class="navbar-brand" href="#">
-                                <img src="img/logo.png" alt="">
-                            </a>
-                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                                    <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="#">Movies</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">TVShows</a>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                            Genres
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <li><a class="dropdown-item" href="#">Action</a></li>
-                                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                                            <li><hr class="dropdown-divider"></li>
-                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-                                    </li>
-                                </ul>
-                                <form class="d-flex">
-                                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                                    <button class="btn btn-outline-light" type="submit">Search</button>
-                                </form>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include_once "template/header.php"; ?>
 <section class="container-fluid px-4" id="home">
     <div class="row justify-content-center py-5" style="background-color: #121212">
         <div class="col-12">
             <div class="my-5 text-center">
-                <h1 class="text-white">Movies</h1>
+                <h1 class="text-white">TV Shows</h1>
             </div>
             <div class="row" id="movie-slide">
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie1.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow1.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -81,14 +17,14 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie2.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow2.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -96,14 +32,14 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie3.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow3.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -111,14 +47,14 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie1.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow4.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -126,14 +62,14 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie1.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow5.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -141,14 +77,14 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
                 <div class="col-3 px-3">
                     <div class="position-relative">
                         <a href="">
-                            <img src="img/movie1.jpg" class="rounded img-fluid" alt="">
+                            <img src="img/tvshow2.jpg" class="rounded img-fluid" alt="">
                         </a>
                         <a href="" class="position-absolute bottom-0 text-decoration-none text-white" style="left: 0">
                             <div class="ps-1">
@@ -156,11 +92,13 @@
                                 <small>2021</small>
                             </div>
                         </a>
-                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1" style="right: 0">Movie</small>
+                        <small class="position-absolute text-white c-rounded bg-danger bottom-0 p-1 px-2" style="right: 0">TV</small>
                     </div>
 
                 </div>
+
             </div>
+<!--            recently added start-->
             <div class="mt-5">
                 <div class="pt-5 d-flex justify-content-between align-items-center mb-3">
                     <h4 class="text-white">Recently added</h4>
@@ -169,7 +107,7 @@
                 <div class="row">
                     <div class="col-2">
                         <div class="position-relative">
-                            <a href="" class="">
+                            <a href="tvshows-detail.php" class="">
                                 <figure class="imghvr-fade rounded">
                                     <img src="img/RAM1.jpg" class="rounded img-fluid" alt="">
                                     <figcaption class="">
@@ -458,6 +396,8 @@
                 </div>
                 <hr class="bg-white">
             </div>
+<!--            recently added end-->
+
             <div class="d-flex justify-content-between">
                 <p class="text-white-50">
                     Developer name is KyawZinLatt.
@@ -470,48 +410,4 @@
     </div>
 </section>
 
-<script src="vendor/jquery.js"></script>
-<script src="vendor/slick/slick.min.js"></script>
-<script>
-    $("#movie-slide").slick({
-        dots: true,
-        infinite: true,
-        arrows: false,
-        speed: 300,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        responsive: [
-            {
-                breakpoint: 1400,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // autoplay: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 800,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    autoplay: true,
-                    autoplaySpeed: 1000,
-                }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-        ]
-    });
-</script>
-</body>
-</html>
+<?php include_once "template/footer.php"; ?>
