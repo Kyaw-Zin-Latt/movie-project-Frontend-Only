@@ -91,3 +91,15 @@
 .simple-pagination .next.current {
     background: #dc3545;
 }
+
+@media (max-width: 576px){
+    .text-sm{
+        font-size: 0.6rem !important;
+    }
+    .m-text-sm{
+        font-size: 0.7rem !important;
+    }
+    .t-text-sm{
+        font-size: 0.68rem !important;
+    }
+}

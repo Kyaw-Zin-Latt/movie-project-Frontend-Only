@@ -1,4 +1,6 @@
 <?php include_once "template/header.php"; ?>
+
+
 <section class="container-fluid px-4" id="home">
     <div class="row justify-content-center py-5" style="background-color: #121212">
         <div class="col-12">
@@ -103,7 +105,7 @@
                     <span class="text-white-50 fw-bold">386</span>
                 </div>
                 <div class="row list-wrapper">
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="movie-detail.php" class="">
                                 <figure class="imghvr-fade rounded">
@@ -119,15 +121,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <p class="text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</p>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -143,15 +145,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -167,15 +169,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -191,15 +193,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="movie-detail.php" class="">
                                 <figure class="imghvr-fade rounded">
@@ -215,15 +217,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -239,15 +241,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -263,15 +265,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -287,15 +289,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -311,15 +313,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -335,15 +337,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Loki(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Loki(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -359,15 +361,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -383,15 +385,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -407,15 +409,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -431,15 +433,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -455,15 +457,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -479,15 +481,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Loki(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Loki(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -503,15 +505,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -527,15 +529,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Loki(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Loki(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -551,15 +553,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -575,15 +577,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -599,15 +601,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -623,15 +625,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -647,15 +649,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger p-1 text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Behemoth(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Behemoth(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div class="col-2 list-item">
+                    <div class="col-xl-2 col-4 mb-3 list-item">
                         <div class="position-relative">
                             <a href="" class="">
                                 <figure class="imghvr-fade rounded">
@@ -671,15 +673,15 @@
                                 </figure>
                             </a>
                             <a href="" class="position-absolute top-0 text-decoration-none text-white m-1" style="left: 0">
-                                <small class=" text-white rounded bg-danger p-1">(Web-rip)1080p</small>
+                                <small class=" text-white rounded bg-danger text-sm">(Web-rip)1080p</small>
                             </a>
                         </div>
                         <div class="">
-                            <h6 class="text-white mb-0 mt-3">Loki(2021)</h6>
-                            <small class="text-white-50">Jun. 24, 2021</small>
+                            <h6 class="text-white mb-0 mt-3 m-text-sm">Loki(2021)</h6>
+                            <small class="text-white-50 t-text-sm">Jun. 24, 2021</small>
                         </div>
                     </div>
-                    <div id="pagination-container" class="align-items-start mt-3"></div>
+                    <div id="pagination-container" class="align-items-start mt-3 fs"></div>
                 </div>
 
                 <hr class="bg-white">
